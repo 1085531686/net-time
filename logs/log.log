@@ -1,0 +1,111 @@
+2018-05-22 17:14:32  [ main:0 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 17:14:32  [ main:12 ] - [ INFO ]   Originate Timestamp:	deae5df8.378d4fdf  Tue, May 22 2018 17:14:32.217
+2018-05-22 17:14:32  [ main:13 ] - [ INFO ]   Receive Timestamp:	deafaf7c.2fdf3b2d  Wed, May 23 2018 17:14:36.187
+2018-05-22 17:14:32  [ main:13 ] - [ INFO ]   Transmit Timestamp:	deafaf7c.2fdf3fcd  Wed, May 23 2018 17:14:36.187 
+2018-05-22 17:14:32  [ main:14 ] - [ INFO ]   Destination Timestamp:	deae5df8.37ced916  Tue, May 22 2018 17:14:32.218
+2018-05-22 17:14:32  [ main:18 ] - [ INFO ]   Roundtrip delay(ms)=1, clock offset(ms)=86403969
+2018-05-22 17:14:32  [ main:19 ] - [ INFO ]  Wed May 23 17:14:36 CST 2018
+2018-05-22 17:14:32  [ main:24 ] - [ INFO ]  鍖椾含鏃堕棿:2018-05-23 17:14:36
+2018-05-22 17:14:32  [ main:134 ] - [ INFO ]  1
+2018-05-22 17:14:32  [ main:280 ] - [ INFO ]  1
+2018-05-22 17:14:32  [ main:280 ] - [ INFO ]  璁剧疆鎴愬姛
+2018-05-22 17:14:35  [ main:3282 ] - [ INFO ]  浼戠湢60鍒嗛挓
+2018-05-22 17:17:44  [ main:0 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 17:17:44  [ main:11 ] - [ INFO ]   Originate Timestamp:	deae5eb8.66666666  Tue, May 22 2018 17:17:44.400
+2018-05-22 17:17:44  [ main:11 ] - [ INFO ]   Receive Timestamp:	deafb03c.5f7ced23  Wed, May 23 2018 17:17:48.373
+2018-05-22 17:17:44  [ main:12 ] - [ INFO ]   Transmit Timestamp:	deafb03c.5f7cf1c3  Wed, May 23 2018 17:17:48.373 
+2018-05-22 17:17:44  [ main:12 ] - [ INFO ]   Destination Timestamp:	deae5eb8.66e978d4  Tue, May 22 2018 17:17:44.402
+2018-05-22 17:17:44  [ main:16 ] - [ INFO ]   Roundtrip delay(ms)=2, clock offset(ms)=86403972
+2018-05-22 17:17:44  [ main:16 ] - [ INFO ]  Wed May 23 17:17:48 CST 2018
+2018-05-22 17:17:44  [ main:20 ] - [ INFO ]  北京时间:2018-05-23 17:17:48
+2018-05-22 17:17:44  [ main:136 ] - [ INFO ]  时间设置结果：1
+2018-05-22 17:17:44  [ main:342 ] - [ INFO ]  日期设置结果：1
+2018-05-22 17:17:44  [ main:343 ] - [ INFO ]  浼戠湢60鍒嗛挓
+2018-05-22 17:17:49  [ main:1 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 17:17:49  [ main:16 ] - [ INFO ]   Originate Timestamp:	deae5ebd.e9fbe76c  Tue, May 22 2018 17:17:49.914
+2018-05-22 17:17:49  [ main:16 ] - [ INFO ]   Receive Timestamp:	deafb041.e353f6c8  Wed, May 23 2018 17:17:53.888
+2018-05-22 17:17:49  [ main:17 ] - [ INFO ]   Transmit Timestamp:	deafb041.e353fb68  Wed, May 23 2018 17:17:53.888 
+2018-05-22 17:17:49  [ main:17 ] - [ INFO ]   Destination Timestamp:	deae5ebd.eac08312  Tue, May 22 2018 17:17:49.917
+2018-05-22 17:17:49  [ main:22 ] - [ INFO ]   Roundtrip delay(ms)=3, clock offset(ms)=86403972
+2018-05-22 17:17:49  [ main:23 ] - [ INFO ]  Wed May 23 17:17:53 CST 2018
+2018-05-22 17:17:49  [ main:26 ] - [ INFO ]  北京时间:2018-05-23 17:17:53
+2018-05-22 17:17:50  [ main:135 ] - [ INFO ]  时间设置结果：1
+2018-05-22 17:17:50  [ main:283 ] - [ INFO ]  日期设置结果：1
+2018-05-22 17:17:50  [ main:284 ] - [ INFO ]  浼戠湢60鍒嗛挓
+2018-05-22 17:19:42  [ main:1 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 17:19:42  [ main:11 ] - [ INFO ]   Originate Timestamp:	deae5f2e.e5e353f7  Tue, May 22 2018 17:19:42.898
+2018-05-22 17:19:42  [ main:12 ] - [ INFO ]   Receive Timestamp:	deafb0b2.dfbe75c6  Wed, May 23 2018 17:19:46.874
+2018-05-22 17:19:42  [ main:12 ] - [ INFO ]   Transmit Timestamp:	deafb0b2.dfbe7a66  Wed, May 23 2018 17:19:46.874 
+2018-05-22 17:19:42  [ main:12 ] - [ INFO ]   Destination Timestamp:	deae5f2e.e6666666  Tue, May 22 2018 17:19:42.900
+2018-05-22 17:19:42  [ main:13 ] - [ INFO ]   Roundtrip delay(ms)=2, clock offset(ms)=86403975
+2018-05-22 17:19:42  [ main:14 ] - [ INFO ]  Wed May 23 17:19:46 CST 2018
+2018-05-22 17:19:42  [ main:20 ] - [ INFO ]  北京时间:2018-05-23 17:19:46
+2018-05-22 17:19:43  [ main:130 ] - [ INFO ]  时间设置结果：1
+2018-05-22 17:19:43  [ main:246 ] - [ INFO ]  日期设置结果：1
+2018-05-22 17:19:43  [ main:246 ] - [ INFO ]  休眠 60 分
+2018-05-22 17:21:01  [ main:1 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 17:21:01  [ main:39 ] - [ INFO ]   Originate Timestamp:	deae5f7d.99581062  Tue, May 22 2018 17:21:01.599
+2018-05-22 17:21:01  [ main:40 ] - [ INFO ]   Receive Timestamp:	deafb101.9374bbc0  Wed, May 23 2018 17:21:05.576
+2018-05-22 17:21:01  [ main:40 ] - [ INFO ]   Transmit Timestamp:	deafb101.9374c060  Wed, May 23 2018 17:21:05.576 
+2018-05-22 17:21:01  [ main:40 ] - [ INFO ]   Destination Timestamp:	deae5f7d.a147ae14  Tue, May 22 2018 17:21:01.630
+2018-05-22 17:21:01  [ main:41 ] - [ INFO ]   Roundtrip delay(ms)=31, clock offset(ms)=86403961
+2018-05-22 17:21:01  [ main:41 ] - [ INFO ]  Wed May 23 17:21:05 CST 2018
+2018-05-22 17:21:01  [ main:45 ] - [ INFO ]  北京时间:2018-05-23 17:21:05
+2018-05-22 17:21:01  [ main:152 ] - [ INFO ]  时间设置结果：1
+2018-05-22 17:21:01  [ main:254 ] - [ INFO ]  日期设置结果：1
+2018-05-22 17:21:01  [ main:254 ] - [ INFO ]  休眠 60 分
+2018-05-22 18:17:53  [ main:3609357 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 18:17:53  [ main:3609388 ] - [ INFO ]   Originate Timestamp:	deae6cd1.c083126e  Tue, May 22 2018 18:17:53.752
+2018-05-22 18:17:53  [ main:3609389 ] - [ INFO ]   Receive Timestamp:	deafbe55.c7ef9ccb  Wed, May 23 2018 18:17:57.781
+2018-05-22 18:17:53  [ main:3609390 ] - [ INFO ]   Transmit Timestamp:	deafbe55.c7efa16b  Wed, May 23 2018 18:17:57.781 
+2018-05-22 18:17:53  [ main:3609391 ] - [ INFO ]   Destination Timestamp:	deae6cd1.c83126e9  Tue, May 22 2018 18:17:53.782
+2018-05-22 18:17:53  [ main:3609394 ] - [ INFO ]   Roundtrip delay(ms)=30, clock offset(ms)=86404014
+2018-05-22 18:17:53  [ main:3609394 ] - [ INFO ]  Wed May 23 18:17:57 CST 2018
+2018-05-22 18:17:53  [ main:3609395 ] - [ INFO ]  北京时间:2018-05-23 18:17:57
+2018-05-22 18:17:53  [ main:3609520 ] - [ INFO ]  时间设置结果：1
+2018-05-22 18:17:54  [ main:3609630 ] - [ INFO ]  日期设置结果：1
+2018-05-22 18:17:54  [ main:3609631 ] - [ INFO ]  浼戠湢60鍒嗛挓
+2018-05-22 18:19:52  [ main:3609258 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 18:19:52  [ main:3609260 ] - [ INFO ]   Originate Timestamp:	deae6d48.26a7ef9d  Tue, May 22 2018 18:19:52.151
+2018-05-22 18:19:52  [ main:3609260 ] - [ INFO ]   Receive Timestamp:	deafbecc.2e5603e3  Wed, May 23 2018 18:19:56.181
+2018-05-22 18:19:52  [ main:3609261 ] - [ INFO ]   Transmit Timestamp:	deafbecc.2e560883  Wed, May 23 2018 18:19:56.181 
+2018-05-22 18:19:52  [ main:3609261 ] - [ INFO ]   Destination Timestamp:	deae6d48.26e978d4  Tue, May 22 2018 18:19:52.152
+2018-05-22 18:19:52  [ main:3609261 ] - [ INFO ]   Roundtrip delay(ms)=1, clock offset(ms)=86404029
+2018-05-22 18:19:52  [ main:3609262 ] - [ INFO ]  Wed May 23 18:19:56 CST 2018
+2018-05-22 18:19:52  [ main:3609262 ] - [ INFO ]  北京时间:2018-05-23 18:19:56
+2018-05-22 18:19:52  [ main:3609395 ] - [ INFO ]  时间设置结果：1
+2018-05-22 18:19:52  [ main:3609523 ] - [ INFO ]  日期设置结果：1
+2018-05-22 18:19:52  [ main:3609523 ] - [ INFO ]  休眠 60 分
+2018-05-22 18:49:54,423 [NTPClient] INFO  > 10.51.0.60/10.51.0.60
+2018-05-22 18:49:54,463 [NTPClient] INFO   Originate Timestamp:	deae7452.6d0e5604  Tue, May 22 2018 18:49:54.426
+2018-05-22 18:49:54,463 [NTPClient] INFO   Receive Timestamp:	deafc5d6.7be76bfc  Wed, May 23 2018 18:49:58.484
+2018-05-22 18:49:54,464 [NTPClient] INFO   Transmit Timestamp:	deafc5d6.7be7709c  Wed, May 23 2018 18:49:58.484 
+2018-05-22 18:49:54,464 [NTPClient] INFO   Destination Timestamp:	deae7452.74bc6a7e  Tue, May 22 2018 18:49:54.456
+2018-05-22 18:49:54,464 [NTPClient] INFO   Roundtrip delay(ms)=30, clock offset(ms)=86404043
+2018-05-22 18:49:54,464 [NTPClient] INFO  Wed May 23 18:49:58 CST 2018
+2018-05-22 18:49:54,468 [NTPClient] INFO  北京时间:2018-05-23 18:49:58
+2018-05-22 18:49:54,590 [NTPClient] INFO  时间设置结果：1
+2018-05-22 18:49:54,697 [NTPClient] INFO  日期设置结果：1
+2018-05-22 18:49:54,698 [NTPClient] INFO  休眠 60 分
+2018-05-22 19:18:03  [ main:7218643 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 19:18:03  [ main:7218676 ] - [ INFO ]   Originate Timestamp:	deae7aeb.09ba5e35  Tue, May 22 2018 19:18:03.038
+2018-05-22 19:18:03  [ main:7218676 ] - [ INFO ]   Receive Timestamp:	deafcc6f.1f3b6436  Wed, May 23 2018 19:18:07.122
+2018-05-22 19:18:03  [ main:7218676 ] - [ INFO ]   Transmit Timestamp:	deafcc6f.1f3b68d6  Wed, May 23 2018 19:18:07.122 
+2018-05-22 19:18:03  [ main:7218677 ] - [ INFO ]   Destination Timestamp:	deae7aeb.11eb851e  Tue, May 22 2018 19:18:03.070
+2018-05-22 19:18:03  [ main:7218677 ] - [ INFO ]   Roundtrip delay(ms)=32, clock offset(ms)=86404068
+2018-05-22 19:18:03  [ main:7218678 ] - [ INFO ]  Wed May 23 19:18:07 CST 2018
+2018-05-22 19:18:03  [ main:7218678 ] - [ INFO ]  北京时间:2018-05-23 19:18:07
+2018-05-22 19:18:03  [ main:7218788 ] - [ INFO ]  时间设置结果：1
+2018-05-22 19:18:03  [ main:7218931 ] - [ INFO ]  日期设置结果：1
+2018-05-22 19:18:03  [ main:7218932 ] - [ INFO ]  浼戠湢60鍒嗛挓
+2018-05-22 20:18:12  [ main:10827943 ] - [ INFO ]  > 10.51.0.60/10.51.0.60
+2018-05-22 20:18:12  [ main:10827977 ] - [ INFO ]   Originate Timestamp:	deae8904.56872b02  Tue, May 22 2018 20:18:12.338
+2018-05-22 20:18:12  [ main:10827978 ] - [ INFO ]   Receive Timestamp:	deafda88.7a1cab7b  Wed, May 23 2018 20:18:16.477
+2018-05-22 20:18:12  [ main:10827978 ] - [ INFO ]   Transmit Timestamp:	deafda88.7a1cb01b  Wed, May 23 2018 20:18:16.477 
+2018-05-22 20:18:12  [ main:10827979 ] - [ INFO ]   Destination Timestamp:	deae8904.5ef9db22  Tue, May 22 2018 20:18:12.371
+2018-05-22 20:18:12  [ main:10827979 ] - [ INFO ]   Roundtrip delay(ms)=33, clock offset(ms)=86404122
+2018-05-22 20:18:12  [ main:10827980 ] - [ INFO ]  Wed May 23 20:18:16 CST 2018
+2018-05-22 20:18:12  [ main:10827981 ] - [ INFO ]  北京时间:2018-05-23 20:18:16
+2018-05-22 20:18:12  [ main:10828119 ] - [ INFO ]  时间设置结果：1
+2018-05-22 20:18:12  [ main:10828225 ] - [ INFO ]  日期设置结果：1
+2018-05-22 20:18:12  [ main:10828226 ] - [ INFO ]  浼戠湢60鍒嗛挓

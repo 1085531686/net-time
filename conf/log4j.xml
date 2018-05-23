@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/"
+	debug="false">
+
+	<appender name="nettime" class="org.apache.log4j.RollingFileAppender">
+		<param name="Encoding" value="GBK" />
+		<param name="File" value="logs/log.log" />
+		<param name="Threshold" value="debug" />
+		<param name="MaxFileSize" value="5MB" />
+		<param name="Append" value="true" />
+		<param name="MaxBackupIndex" value="2" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%c{1}] %-5p %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">
+		<param name="Encoding" value="GBK" />
+		<param name="Target" value="System.out" />
+		<param name="Threshold" value="debug" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d [%c{1}] %-5p %m%n" />
+		</layout>
+	</appender>
+
+
+	
+	<!-- 发送端监控日志 -->
+	<logger name="nettime" additivity="false">
+		<level value="info" />
+		<appender-ref ref="nettime" />
+	</logger>
+
+	<root>
+		<priority value="info" />
+		<appender-ref ref="CONSOLE" />
+		<appender-ref ref="nettime" />
+	</root>
+
+</log4j:configuration>
